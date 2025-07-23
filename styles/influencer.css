@@ -200,6 +200,22 @@
   font-weight: 700;
 }
 
+.see-more-section {
+  text-align: end;
+  margin: 20px;
+}
+
+.btn-secondary {
+  padding: 10px 20px;
+  background-color: #E02C6D;
+  border: none;
+  border-radius: 40px;
+  color: whitesmoke;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
 /* responsive */
 
 @media screen and (max-width: 576px) {
@@ -276,5 +292,10 @@
     padding: 15px;
     justify-items: center;
     align-items: center;
+  }
+
+  .see-more-section {
+    text-align: center;
+    margin: 20px 0;
   }
 }
