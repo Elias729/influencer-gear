@@ -251,7 +251,8 @@
 
   .header,
   .navbar ul,
-  .hero-container {
+  .hero-container,
+  .products-at-place {
     flex-direction: column;
     align-items: center;
     text-align: center;
@@ -326,5 +327,23 @@
   .see-more-section {
     text-align: center;
     margin: 20px 0;
+  }
+
+  .products-at-place {
+    padding: 20px;
+    gap: 20px;
+  }
+
+  .products-title-text {
+    width: 400px;
+    margin: 0 auto;
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+
+  .products-description {
+    width: 380px;
+    margin: 0 auto;
+    margin-bottom: 20px;
   }
 }
