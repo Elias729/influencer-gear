@@ -44,7 +44,7 @@ A **responsive Influencer Gear website** crafted with **HTML & CSS**, showcasing
 ## 👨‍💻 Author
 
 **Elias Hossain Rafe**  
-[GitHub](https://github.com/Elias729) | [LinkedIn](https://www.linkedin.com/in/elias-hossain-rafe)
+[GitHub](https://github.com/Elias729) | [LinkedIn](https://www.linkedin.com/in/elias-hossain-rafe-2b8250338)
 
 ---
 
